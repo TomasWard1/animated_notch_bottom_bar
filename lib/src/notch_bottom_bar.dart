@@ -133,7 +133,7 @@ class _AnimatedNotchBottomBarState extends State<AnimatedNotchBottomBar> with Si
               BottomBarActiveItem(
                     i,
                     itemWidget: widget.bottomBarItems[i].activeItem,
-                    scrollPosition: scrollPosition,
+                    scrollPosition: 0,
                     onTap: widget.onTap,
                   ),
                 
