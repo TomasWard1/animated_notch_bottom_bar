@@ -2,7 +2,7 @@
 double kMargin = 14.0;
 
 /// bottom bar height
-double kHeight = 10.0;
+double kHeight = 50.0;
 
 /// notch circle circle radius
 const double kCircleRadius = 20.0;
@@ -19,7 +19,7 @@ const double kTopMargin = 10.0;
 const double kBottomRadius = 0;
 
 /// bottom bar item size
-const double kIconSize = 10.0;
+const double kIconSize = 22.0;
 
 /// Pi value
 const double kPi = 3.1415926535897932;
