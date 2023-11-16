@@ -19,7 +19,7 @@ const double kTopMargin = 10.0;
 const double kBottomRadius = 0;
 
 /// bottom bar item size
-const double kIconSize = 20.0;
+const double kIconSize = 24.0;
 
 /// Pi value
 const double kPi = 3.1415926535897932;
